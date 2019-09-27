@@ -1,2 +1,11 @@
-# Nodejs-Chatting-Apllication-
-It's a basic project to build a chat system using NodeJS, and Socket.io. Download the repository. Open nodejs command prompt. Type "nmp install express". Afterwards type "node index.js". Go to your browser, in the address bar type "localhost:8080", hit enter. Use "localhost:8080" ei another tab.
+# Build A Group-Chat App in 30 Lines Using Node.js
+
+A simple and (hopefully) to-the-point tutorial to build your first group-chat application using Node.js in less than 30 lines of code.
+
+## Running the program
+
+Run the program by using
+
+```shell
+$ node index.js
+```
